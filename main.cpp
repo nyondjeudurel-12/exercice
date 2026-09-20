@@ -3,8 +3,7 @@
 #include <vector>
 
 int main() {
-    //modification premiere du fichier
-    //autre modification du fichier
+    
 
     std::string name;
     std::cout << "Enter your name:";
@@ -12,3 +11,4 @@ int main() {
     std::cout << "modification A, " << name << "!" << std::endl;
     return 0;
 }
+//autre modification du fichier
